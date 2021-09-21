@@ -75,6 +75,10 @@ def print_top(filename):
     print(item[0], item[1])
 ###
 
+### TEST ###
+#print_words("/Users/tancrede/Desktop/COURS TELECOM/Kit Big Data/Session 1/google-python-exercises/basic/small.txt")
+#print_top("/Users/tancrede/Desktop/COURS TELECOM/Kit Big Data/Session 1/google-python-exercises/basic/alice.txt")
+
 # This basic command line argument parsing code is provided and
 # calls the print_words() and print_top() functions which you must define.
 def main():
