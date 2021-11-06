@@ -1,3 +1,5 @@
+# Les fichiers excels et images sont trop volumineux pour être déposé sur le git
+
 # Projet final du Kit Data Science 2020
 
 Ce projet académique tient lieu d'évaluation et clôture l'enseignement donné par Francis Wolinski (https://github.com/fran6w) à Telecom Paris pour le mastère spécialisé Big Data et IA. Il couvre les différents aspects :
